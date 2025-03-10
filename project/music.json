@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Jimi Hendrix",
+    "instruments": [
+      {
+        "name": "Fender Stratocaster",
+        "img": "https://th.bing.com/th/id/R.682f787d86c600da3fa2faab0f47756a?rik=iu3zQOqQbl%2fcsQ&riu=http%3a%2f%2fwww.vintageandrare.com%2fuploads%2fproducts%2f46342%2f1764185%2foriginal.jpg&ehk=szfRPEhe5Tf5WVnAq35Qa99lkJEcEEIjYqHPWZbIhV8%3d&risl=&pid=ImgRaw&r=0",
+        "song": "https://www.youtube.com/watch?v=_PVjcIO4MT4"
+      },
+      {
+        "name": "Fender Stratocaster",
+        "img": "https://wildwoodguitars.com/wp-content/uploads/2018/11/mx18120639_lg3.jpg",
+        "song": "https://www.youtube.com/watch?v=qFfnlYbFEiE"
+      }
+    ],
+    "description": " Хендрікс — американський гітарист, співак і композитор, творчість якого пов'язана з такими напрямками як-от есід-рок, блюз-рок та джаз-рок. За версією журналу Rolling Stone, Гендрікс був визнаний найкращим гітаристом світу."
+            
+  },
+  {
+    "name": "Eric Clapton",
+    "instruments": [
+      {
+        "name": "Fender Stratocaster (Blackie)",
+        "img": "https://topshelfinstruments.com.au/cdn/shop/products/2022-03-24_024_1024x.jpg?v=1648173130",
+        "song": "https://www.youtube.com/watch?v=pKwQlm-wldA"
+      }
+    ],
+    "description": "Э́рик Па́трик Клэ́птон (англ. Eric Patrick Clapton; род. 30 березня 1945 року, Ріплі [англ.], Суррей, Англія) - британський рок-музикант (композитор, гітарист, вокаліст). Командор Ордену Британської імперії (CBE)."
+            
+  },
+  {
+    "name": "Jimmy Page",
+    "instruments": [
+      {
+        "name": "Gibson Les Paul",
+        "img": "https://northernlightsmusic.com/cdn/shop/products/DSC01298_468x700.jpg?v=1646845016",
+        "song": "https://www.youtube.com/watch?v=hAwqev7No1s"
+      }
+    ],
+    "description": "Джи́ммі Пе́йдж (повне ім'я — Джеймс Патрік Пейдж, англ. James Patrick Page, нар. 9 січня 1944) — британський гітарист, композитор та автор пісень, продюсер. Вважається одним із найкращих гітаристів у стилях хард-рок та рок-н-рол. Один із засновників таких музикальних стилів як хард-рок та хеві-метал."
+  },
+  {
+    "name": "Eddie Van Halen",
+    "instruments": [
+      {
+        "name": " Frankenstrat",
+        "img": "https://www.musicstreet.co.uk/cdn/shop/products/evh-electric-guitar-evh-striped-series-frankenstrat-16462379319357_600x.jpg?v=1658469203",
+        "song": "https://www.youtube.com/watch?v=ShV2Hu8veoE"
+      }
+    ],
+    "description": "Едвард (Едді) Лодевейк Ван Гален — американський гітарист голландського походження. Автор пісень, конструктор гітар та підсилювальної апаратури."  
+    },
+
+      {
+    "name": "Slash",
+    "instruments": [
+      {
+        "name": "Gibson Les Paul",
+        "img": "https://waltgracevintage.com/cdn/shop/products/IMG_1747_ad2f90e8-d0dc-47f3-8f73-f56dd46b41b9.jpg?v=1670543834",
+        "song": "https://www.youtube.com/watch?v=OOoRECN0C5g"
+      }
+    ],
+    "description": "Слеш (англ. Slash, справжнє ім'я — Сол Гадсон — англо-американський гітарист, грав у групах Tidus Sloan (1981—1983), Guns N' Roses (1985—1996, 2016-дотепер), Velvet Revolver (з 2002), Slash's Snakepit (1994—1996, 1998—2001), Slash's Blues Ball (1996—1998)."  
+    },
+
+          {
+    "name": "B.B. King",
+    "instruments": [
+      {
+        "name": "Gibson Lucille",
+        "img": "https://cdn11.bigcommerce.com/s-ikl27/images/stencil/1280x1280/products/18593/440901/Gibson-B-B-King-Lucille-Legacy-Transparent-Ebony-1__61510.1646614493.jpg?c=3",
+        "song": "https://www.youtube.com/watch?v=BPlsqo2bk2M"
+      }
+    ],
+    "description": "B.B. King, справжнє ім'я — Riley B. King — американський блюзовий гітарист і вокаліст. Його композиції характеризує витончений стиль гітарного соло, заснований на плавному підтяганні (англ. string bending) і блискучому вібрато."  
+    },
+
+    {
+    "name": "Keith Richards",
+    "instruments": [
+      {
+        "name": "Fender Telecaster",
+        "img": "https://static.ten-guitars.de/Fender/fendertelecaster68-sonny-keith-richards-relic2004-405eb261e75a8477ceba741836d6cd71765b1873-1920x1080.jpg",
+        "song": "https://www.youtube.com/watch?v=1M8DPSuYrCo"
+      }
+    ],
+    "description": "Keith Richards — британський гітарист та автор пісень гурту The Rolling Stones разом із Міком Джаггером. Авторитетний американський журнал Rolling Stone помістив його на 10 місце в списку «100 найбільших гітаристів усіх часів» 2003 року."  
+    },
+
+    {
+    "name": "Chuck Berry",
+    "instruments": [
+      {
+        "name": "Gibson ES-350T",
+        "img": "https://willcuttguitars.com/cdn/shop/products/A55042-1_1200x.jpg?v=1610652986",
+        "song": "https://www.youtube.com/watch?v=Nbq4GTwGRQ8"
+      }
+    ],
+    "description": "Chuck Berry — американський музикант, пісенний композитор, вокаліст, піонер рок-н-ролу."  
+    },
+
+    {
+    "name": "David Gilmour",
+    "instruments": [
+      {
+        "name": " Fender Stratocaster",
+        "img": "https://images.musicstore.de/images/0960/fender-david-gilmour-signature-stratocaster-black-_1_GIT0014133-000.jpg",
+        "song": "https://www.youtube.com/watch?v=vDHcNU9t4xE"
+      }
+    ],
+    "description": "David Jon Gilmour — англійський музикант і мульти-інструменталіст, який є гітаристом, вокалістом і автором пісень рок-групи Pink Floyd. Підраховано, що за станом на 2010 рік група продала понад 250 мільйонів платівок по всьому світі, у тому числі 74,5 мільйонів у Сполучених Штатах."  
+    },
+
+    {
+    "name": "Stevie Ray Vaughan",
+    "instruments": [
+      {
+        "name": " Fender Stratocaster (Lenny)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXJqlOWWTtrNgp7ijK3zFIuhn2_HZzg2IIqzCF0RSUBomsbFRj5y23xVVU4w4UUKrixo&usqp=CAU",
+        "song": "https://www.youtube.com/watch?v=iO7jPV_VsQY"
+      }
+    ],
+    "description": " Stevie Ray Vaughan— американський гітарист, співак, автор і продюсер в жанрі блюз-рок. Один з найвпливовіших гітаристів світу в своєму жанрі."  
+    }
+
+
+
+]
